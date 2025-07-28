@@ -9,3 +9,10 @@ body {
     font-family: Arial, sans-serif;
     
 }
+.calculator {
+  margin: 2rem 0;
+  padding: 1rem;
+  font-size: 2rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+}
